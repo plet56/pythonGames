@@ -1,0 +1,16 @@
+coffee,no
+beer,no
+poo,yes
+playdough,no
+tissue,yes
+chickens,yes
+dentists,yes
+umbrellas,no
+Cheltenham,yes
+London,yes
+will,yes
+TV,yes
+flowers,no
+blankets,no
+lego,yes
+crocodiles,yes

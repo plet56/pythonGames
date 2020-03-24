@@ -1,0 +1,16 @@
+drawing,yes
+socks,no
+snow,yes
+sprouts,no
+jumpers,yes
+football,yes
+dolphins,yes
+pizza,yes
+Daniel,no
+Gloucester,yes
+Joshua,yes
+Christmas trees,yes
+starting again,no
+Walking,no
+pyjamas,yes
+Dark,no

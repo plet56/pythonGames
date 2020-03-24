@@ -1,0 +1,23 @@
+tomatoes,yes
+sun-dried tomatoes,no
+bees,yes
+beans,yes
+farty smells,no
+goats,no
+rust,no
+football,no
+Liverpool,no
+motorways,no
+oil,yes
+sausages,yes
+mushrooms,yes
+pens,yes
+toilet rolls,yes
+light bulbs,yes
+butter,no
+cricket,no
+crickets,yes
+homework,yes
+shouting,no
+Christmas,yes
+spinach,yes
